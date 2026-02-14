@@ -1,0 +1,21 @@
+
+# Root ignores
+/node_modules
+/frontend/node_modules
+/backend/venv
+/.env
+/backend/.env
+__pycache__
+*.pyc
+.DS_Store
+.vscode
+
+# Frontend
+.next/
+/frontend/.next
+/frontend/out
+/frontend/build
+coverage/
+
+# Backend
+backend/__pycache__
