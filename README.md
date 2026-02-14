@@ -117,5 +117,5 @@ This project is licensed under the MIT License.
 
 ---
 
-_Built with ❤️ by [Dibendu Monda]_
->>>>>>> 582af99 (Add project files and README)
+_Built with ❤️ by [Dibendu Mondal]_
+>>>>>>>  
